@@ -1,0 +1,15 @@
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication.csproj.AssemblyReference.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\App.g.cs
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\N0NamedGuy\Downloads\IDEF0\WpfApplication\obj\Debug\WpfApplication.pdb

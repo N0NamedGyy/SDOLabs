@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication"
+        mc:Ignorable="d"
+        Title="Главное Окно" Height="450" Width="800">
+    <Grid>
+
+        <TextBox Name="TextBox1" Margin="142,119,558,285" Height="30" Width="100" Text="Число 1">
+        </TextBox>
+        <TextBox Name="TextBox2" Margin="315,119,385,285" Height="30" Width="100" Text="Число 2">
+        </TextBox>
+        <TextBox Name="TextBox3" Margin="493,119,207,285" Height="30" Width="100" Text="Число 3">
+        </TextBox>
+
+        <Button Content="Считать" HorizontalAlignment="Left" Margin="341,282,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label Content="Введите 3 числа&#xD;&#xA;" Margin="315,63,385,346"/>
+
+    </Grid>
+</Window>
